@@ -1,0 +1,8 @@
+﻿  Zawody.cpp
+C:\Users\bubum\OneDrive\Pulpit\remake zawody\Zawody\Trasa.h(36,17): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\bubum\OneDrive\Pulpit\remake zawody\Zawody\Trasa.h(44,31): warning C4244: "*=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\bubum\OneDrive\Pulpit\remake zawody\Zawody\Trasa.h(45,33): warning C4244: "*=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\bubum\OneDrive\Pulpit\remake zawody\Zawody\Trasa.h(46,29): warning C4244: "*=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\bubum\OneDrive\Pulpit\remake zawody\Zawody\zawody.h(25,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\bubum\OneDrive\Pulpit\remake zawody\Zawody\Zawody.cpp(10,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Zawody.vcxproj -> C:\Users\bubum\OneDrive\Pulpit\remake zawody\x64\Debug\Zawody.exe
